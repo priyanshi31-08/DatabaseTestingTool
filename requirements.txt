@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+pymysql
+psycopg2-binary
+pymongo
+openpyxl
+matplotlib
+google-generativeai
+boto3
+requests
+pyhive
+thrift
